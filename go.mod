@@ -1,4 +1,4 @@
-module github.com/mergitto/jan-go
+module github.com/mergitto/jan-go-example
 
 go 1.17
 
